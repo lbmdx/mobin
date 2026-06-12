@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cgi-bin
+
+Disallow: http://bmdx.info/404.html
+
+Sitemap: http://bmdx.info/sitemap.xml
+
+
+
